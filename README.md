@@ -61,7 +61,7 @@ Pada halaman ini, pengguna dapat:
 ### Beranda & Search
 <p align="center">
   <img src="images/beranda.jpeg" width="180"/>
-  <img src="images/beranda.jpeg" width="180"/>
+  <img src="images/search.jpeg" width="180"/>
 </p>
 
 ### Detail Buku
