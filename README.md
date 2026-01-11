@@ -76,6 +76,7 @@ Pada halaman ini, pengguna dapat:
 ### Koleksi
 <p align="center">
   <img src="images/koleksi.jpeg" width="220"/>
+  <img src="images/hapus_koleksi.jpeg" width="220"/>
 </p>
 
 ### Membaca Buku
