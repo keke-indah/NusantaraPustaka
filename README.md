@@ -71,10 +71,10 @@ Aplikasi **Nusantara Pustaka : e-book** merupakan aplikasi Android bertema *lite
 ## Cara Menggunakan Aplikasi Nusantara Pustaka
 
 ### 1. Login atau Daftar Akun
-1) Buka aplikasi **Nusantara Pustaka**.
-2) Pilih menu **Daftar** jika belum memiliki akun.
+1. Buka aplikasi **Nusantara Pustaka**.
+2. Pilih menu **Daftar** jika belum memiliki akun.
    - Isi data seperti **Nama**, **Email**, dan **Password** pada kolom yang tersedia.
-3) Jika sudah memiliki akun, pilih menu **Login**, lalu masukkan **Email** dan **Kata Sandi**.
+3. Jika sudah memiliki akun, pilih menu **Login**, lalu masukkan **Email** dan **Kata Sandi**.
 
 
 ### 2. Halaman Beranda
@@ -95,19 +95,19 @@ Pada halaman ini, pengguna dapat:
 
 Fitur **Manajemen Profil** dapat digunakan untuk mengelola data akun pengguna.
 
-### 1) Mengubah Nama Pengguna
-a. Masuk ke menu **Profil**.
-b. Pilih opsi **Edit Profil**.
+#### 1) Mengubah Nama Pengguna
+1. Masuk ke menu **Profil**.
+2. Pilih opsi **Edit Profil**.
 3. Ubah **nama pengguna** pada kolom yang tersedia.
 4. Klik tombol **Simpan** untuk menyimpan perubahan.
 
-### 2) Mengubah Kata Sandi
+#### 2) Mengubah Kata Sandi
 1. Masuk ke menu **Profil**.
 2. Pilih menu **Keamanan**.
 3. Masukkan **kata sandi lama** dan **kata sandi baru**.
 4. Klik tombol **Simpan** untuk memperbarui kata sandi.
 
-### 3) Menghapus Akun
+#### 3) Menghapus Akun
 1. Masuk ke menu **Profil**.
 2. Pilih menu **Keamanan**.
 3. Klik opsi **Hapus Akun**.
