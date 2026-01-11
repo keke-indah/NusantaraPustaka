@@ -109,7 +109,7 @@ Fitur **Manajemen Profil** dapat digunakan untuk mengelola data akun pengguna.
 
 #### 3) Menghapus Akun
 1. Masuk ke menu **Profil**.
-2. Pilih menu **Keamanan**.
+2. Pilih opsi **Edit Profil**.
 3. Klik opsi **Hapus Akun**.
 4. Konfirmasi penghapusan akun.
 Setelah akun dihapus, pengguna tidak dapat mengakses aplikasi kembali menggunakan akun yang sama.
