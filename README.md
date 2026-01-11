@@ -5,7 +5,7 @@ Kelas  : 5I RPL GAB 1
 
 Aplikasi Android bertema lite yang terinspirasi dari Gramedia Digital, dikembangkan menggunakan bahasa pemrograman Kotlin dan Firebase sebagai database, untuk memenuhi tugas Ujian Akhir Semester mata kuliah Aplikasi Mobile 2.
 
-**Fitur yang di buat :** <br>
+**Fitur yang di buat :**
 1.	Login / Daftar <br>
 2.	Pencarian <br>
 3.	Preview Buku <br>
