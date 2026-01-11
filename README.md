@@ -6,13 +6,13 @@
 
 ---
 
-### Deskripsi Aplikasi
+## Deskripsi Aplikasi
 
 Aplikasi **Nusantara Pustaka** merupakan aplikasi Android bertema *light* yang terinspirasi dari **Gramedia Digital**. Aplikasi ini dikembangkan menggunakan **bahasa pemrograman Kotlin** dan **Firebase** sebagai database, serta dibuat untuk memenuhi **tugas Ujian Akhir Semester** mata kuliah **Aplikasi Mobile 2**.
 
 ---
 
-### Fitur yang Tersedia
+## Fitur yang Tersedia
 
 1. **Login dan Pendaftaran Akun**
 2. **Pencarian Buku**
@@ -35,7 +35,6 @@ Aplikasi **Nusantara Pustaka** merupakan aplikasi Android bertema *light* yang t
    - Isi data seperti **Nama**, **Email**, dan **Password** pada kolom yang tersedia.
 3. Jika sudah memiliki akun, pilih menu **Login**, lalu masukkan **Email** dan **Kata Sandi**.
 
----
 
 ### 2. Halaman Beranda
 Setelah proses login berhasil, pengguna akan diarahkan ke **halaman Beranda**.  
@@ -43,7 +42,6 @@ Pada halaman ini, pengguna dapat:
 - Melihat **katalog buku** yang tersedia.
 - Menggunakan **fitur pencarian** untuk mencari buku berdasarkan judul atau kategori.
 
----
 
 ### 3. Memilih dan Membaca Buku
 1. Klik **judul buku** untuk melihat detail buku.
@@ -51,8 +49,6 @@ Pada halaman ini, pengguna dapat:
 3. Klik tombol **Beli** (fitur masih dalam tahap uji coba).
 4. Setelah buku dibeli, buku akan otomatis masuk ke **Koleksi Saya**.
 5. Klik ikon **baca buku** pada koleksi untuk mulai **membaca buku secara penuh**.
-
----
 
 ## Manajemen Profil
 
@@ -64,15 +60,11 @@ Fitur **Manajemen Profil** digunakan untuk mengelola data akun pengguna.
 3. Ubah **nama pengguna** pada kolom yang tersedia.
 4. Klik tombol **Simpan** untuk menyimpan perubahan.
 
----
-
 ### 2. Mengubah Kata Sandi
 1. Masuk ke menu **Profil**.
 2. Pilih menu **Keamanan**.
 3. Masukkan **kata sandi lama** dan **kata sandi baru**.
 4. Klik tombol **Simpan** untuk memperbarui kata sandi.
-
----
 
 ### 3. Menghapus Akun
 1. Masuk ke menu **Profil**.
