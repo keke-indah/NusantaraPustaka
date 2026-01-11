@@ -50,45 +50,51 @@ Pada halaman ini, pengguna dapat:
 4. Setelah buku dibeli, buku akan otomatis masuk ke **Koleksi Saya**.
 5. Klik buku yang ada di koleksi untuk mulai **membaca buku secara penuh**.
 
-
 ## Tampilan Aplikasi
 
+<!-- Login & Registrasi -->
 ### Login & Registrasi
 <p align="center">
-  <img src="images/login.jpeg" width="250"/>
-  <img src="images/registrasi.jpeg" width="250"/>
+  <img src="images/login.jpeg" width="260" alt="Halaman Login"/>
+  <img src="images/registrasi.jpeg" width="260" alt="Halaman Registrasi"/>
 </p>
 
+<!-- Beranda -->
 ### Beranda
 <p align="center">
-  <img src="images/beranda.jpeg" width="300"/>
+  <img src="images/beranda.jpeg" width="320" alt="Halaman Beranda"/>
 </p>
 
+<!-- Detail Buku -->
 ### Detail Buku
 <p align="center">
-  <img src="images/detail.jpeg" width="300"/>
+  <img src="images/detail.jpeg" width="320" alt="Halaman Detail Buku"/>
 </p>
 
+<!-- Membaca Buku -->
 ### Membaca Buku
 <p align="center">
-  <img src="images/membaca.jpeg" width="300"/>
+  <img src="images/membaca.jpeg" width="320" alt="Halaman Membaca Buku"/>
 </p>
 
+<!-- Koleksi -->
 ### Koleksi
 <p align="center">
-  <img src="images/koleksi.jpeg" width="300"/>
+  <img src="images/koleksi.jpeg" width="320" alt="Halaman Koleksi"/>
 </p>
 
+<!-- Profil & Pengaturan -->
 ### Profil & Pengaturan
 <p align="center">
-  <img src="images/profil.jpeg" width="250"/>
-  <img src="images/notifikasi.jpeg" width="250"/>
-  <img src="images/hapus_akun.jpeg" width="250"/>
+  <img src="images/profil.jpeg" width="260" alt="Halaman Profil"/>
+  <img src="images/notifikasi.jpeg" width="260" alt="Halaman Notifikasi"/>
+  <img src="images/hapus_akun.jpeg" width="260" alt="Halaman Hapus Akun"/>
 </p>
 
+<!-- Pembayaran -->
 ### Pembayaran
 <p align="center">
-  <img src="images/pembayaran.jpeg" width="300"/>
+  <img src="images/pembayaran.jpeg" width="320" alt="Halaman Pembayaran"/>
 </p>
 
 
