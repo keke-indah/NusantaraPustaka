@@ -58,9 +58,10 @@ Pada halaman ini, pengguna dapat:
   <img src="images/registrasi.jpeg" width="180"/>
 </p>
 
-### Beranda
+### Beranda & Search
 <p align="center">
-  <img src="images/beranda.jpeg" width="220"/>
+  <img src="images/beranda.jpeg" width="180"/>
+  <img src="images/beranda.jpeg" width="180"/>
 </p>
 
 ### Detail Buku
@@ -75,8 +76,8 @@ Pada halaman ini, pengguna dapat:
 
 ### Koleksi
 <p align="center">
-  <img src="images/koleksi.jpeg" width="220"/>
-  <img src="images/hapus_koleksi.jpeg" width="220"/>
+  <img src="images/koleksi.jpeg" width="180"/>
+  <img src="images/hapus_koleksii.jpeg" width="180"/>
 </p>
 
 ### Membaca Buku
@@ -88,6 +89,7 @@ Pada halaman ini, pengguna dapat:
 ### Profil & Pengaturan
 <p align="center">
   <img src="images/profil.jpeg" width="180"/>
+  <img src="images/update_kata_sandi.jpeg" width="1880"/>
   <img src="images/notifikasi.jpeg" width="180"/>
   <img src="images/hapus_akun.jpeg" width="180"/>
 </p>
