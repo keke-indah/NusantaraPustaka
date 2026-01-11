@@ -71,8 +71,8 @@ Aplikasi **Nusantara Pustaka : e-book** merupakan aplikasi Android bertema *lite
 ## Cara Menggunakan Aplikasi Nusantara Pustaka
 
 ### 1. Login atau Daftar Akun
-1. Buka aplikasi **Nusantara Pustaka**.
-2. Pilih menu **Daftar** jika belum memiliki akun.
+1) Buka aplikasi **Nusantara Pustaka**.
+b. Pilih menu **Daftar** jika belum memiliki akun.
    - Isi data seperti **Nama**, **Email**, dan **Password** pada kolom yang tersedia.
 3. Jika sudah memiliki akun, pilih menu **Login**, lalu masukkan **Email** dan **Kata Sandi**.
 
@@ -91,7 +91,7 @@ Pada halaman ini, pengguna dapat:
 4. Setelah buku dibeli, buku akan otomatis masuk ke **Koleksi Saya**.
 5. Klik ikon **baca buku** pada koleksi untuk mulai **membaca buku secara penuh**.
 
-### Manajemen Profil
+### 4. Manajemen Profil
 
 Fitur **Manajemen Profil** digunakan untuk mengelola data akun pengguna.
 
