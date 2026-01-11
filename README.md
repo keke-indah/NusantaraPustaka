@@ -18,10 +18,9 @@ b.	Edit Password <br>
 c.	Hapus Akun <br>
 8.	Logout <br>
 
-**Cara Menjalakan Aplikasi**
-## Cara Menggunakan Aplikasi Nusantara Pustaka
+### Cara Menggunakan Aplikasi Nusantara Pustaka
 
-### 1. Login atau Daftar Akun
+#### 1. Login atau Daftar Akun
 1. Buka aplikasi **Nusantara Pustaka**.
 2. Pilih menu **Daftar** jika belum memiliki akun.
    - Isi data seperti **Nama**, **Email**, dan **Password** pada kolom yang tersedia.
@@ -29,7 +28,7 @@ c.	Hapus Akun <br>
 
 ---
 
-### 2. Masuk ke Halaman Beranda
+#### 2. Masuk ke Halaman Beranda
 Setelah proses login berhasil, pengguna akan diarahkan ke **halaman Beranda**.  
 Pada halaman ini, pengguna dapat:
 - Melihat **katalog buku** yang tersedia.
@@ -37,7 +36,7 @@ Pada halaman ini, pengguna dapat:
 
 ---
 
-### 3. Memilih dan Membaca Buku
+#### 3. Memilih dan Membaca Buku
 1. Klik **judul buku** untuk melihat detail buku.
 2. Gunakan tombol **Preview** untuk melihat contoh isi buku.
 3. Klik tombol **Beli** (fitur masih dalam tahap uji coba).
