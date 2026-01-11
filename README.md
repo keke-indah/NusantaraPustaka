@@ -10,7 +10,6 @@
 
 Aplikasi **Nusantara Pustaka : e-book** merupakan aplikasi Android bertema *lite* *Aplikasi* yang terinspirasi dari **Gramedia Digital https://play.google.com/store/apps/details?id=com.appsfoundry.scoop**. Aplikasi ini dikembangkan menggunakan **bahasa pemrograman Kotlin** dan **Firebase** sebagai database, serta dibuat untuk memenuhi **tugas Ujian Akhir Semester** mata kuliah **Aplikasi Mobile 2**.
 
-
 ## Fitur yang Tersedia
 
 1. **Login dan Pendaftaran Akun**
@@ -67,6 +66,17 @@ Aplikasi **Nusantara Pustaka : e-book** merupakan aplikasi Android bertema *lite
   <img src="images/notifikasi.jpeg" width="180"/>
   <img src="images/hapus_akun.jpeg" width="180"/>
 </p>
+
+## Menjalankan Aplikasi Menggunakan File APK (Pengguna)
+
+Aplikasi **Nusantara Pustaka** dapat dijalankan langsung melalui file APK tanpa menggunakan Android Studio.
+
+### Langkah-langkah:
+1. Unduh file **`app-debug.apk`** dari repository GitHub didalam folder **NusantaraPustaka.apk**.
+2. Pindahkan file APK ke perangkat Android.
+3. Aktifkan izin **Instal aplikasi dari sumber tidak dikenal** pada pengaturan perangkat.
+4. Buka file APK dan lakukan proses instalasi.
+5. Setelah instalasi selesai, aplikasi dapat dijalankan melalui menu aplikasi di perangkat Android.
 
 ## Cara Menggunakan Aplikasi Nusantara Pustaka
 
