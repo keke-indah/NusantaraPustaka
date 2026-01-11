@@ -55,8 +55,8 @@ Pada halaman ini, pengguna dapat:
 <!-- Login & Registrasi -->
 ### Login & Registrasi
 <p align="center">
-  <img src="images/login.jpeg" width="260" alt="Halaman Login"/>
-  <img src="images/registrasi.jpeg" width="260" alt="Halaman Registrasi"/>
+  <img src="images/login.jpeg" width="180" alt="Halaman Login"/>
+  <img src="images/registrasi.jpeg" width="180" alt="Halaman Registrasi"/>
 </p>
 
 <!-- Beranda -->
