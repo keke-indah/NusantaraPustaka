@@ -54,28 +54,43 @@ Pada halaman ini, pengguna dapat:
 ## Tampilan Aplikasi
 
 ### Login & Registrasi
-![Login](images/login.jpeg)
-![Registrasi](images/registrasi.jpeg)
+<p align="center">
+  <img src="images/login.jpeg" width="250"/>
+  <img src="images/registrasi.jpeg" width="250"/>
+</p>
 
 ### Beranda
-![Beranda](images/beranda.jpeg)
+<p align="center">
+  <img src="images/beranda.jpeg" width="300"/>
+</p>
 
 ### Detail Buku
-![Detail Buku](images/detailjpeg)
+<p align="center">
+  <img src="images/detail.jpeg" width="300"/>
+</p>
 
 ### Membaca Buku
-![Membaca](images/membaca.jpeg)
+<p align="center">
+  <img src="images/membaca.jpeg" width="300"/>
+</p>
 
 ### Koleksi
-![Koleksi](images/koleksi.jpeg)
+<p align="center">
+  <img src="images/koleksi.jpeg" width="300"/>
+</p>
 
 ### Profil & Pengaturan
-![Profil](images/profil.jpeg)
-![Notifikasi](images/notifikasi.jpeg)
-![Hapus Akun](images/hapus_akun.jpeg)
+<p align="center">
+  <img src="images/profil.jpeg" width="250"/>
+  <img src="images/notifikasi.jpeg" width="250"/>
+  <img src="images/hapus_akun.jpeg" width="250"/>
+</p>
 
 ### Pembayaran
-![Pembayaran](images/pembayaran.jpeg
+<p align="center">
+  <img src="images/pembayaran.jpeg" width="300"/>
+</p>
+
 
 
 
