@@ -96,10 +96,11 @@ Pada halaman ini, pengguna dapat:
 
 ### 3. Memilih dan Membaca Buku
 1. Klik **judul buku** untuk melihat detail buku.
-2. Gunakan tombol **Preview** untuk melihat contoh isi buku.
-3. Klik tombol **Beli** (fitur masih dalam tahap uji coba).
-4. Setelah buku dibeli, buku akan otomatis masuk ke **Koleksi Saya**.
-5. Klik ikon **baca buku** pada koleksi untuk mulai **membaca buku secara penuh**.
+2. Pada halaman detail buku, pengguna dapat menambahkan buku ke Wishlist dengan menekan ikon love yang tersedia.
+3. Gunakan tombol **Preview** untuk melihat contoh isi buku.
+4. Klik tombol **Beli** (fitur masih dalam tahap uji coba).
+5. Setelah buku dibeli, buku akan otomatis masuk ke **Koleksi Saya**.
+6. Klik ikon **baca buku** pada koleksi untuk mulai **membaca buku secara penuh**.
 
 ### 4. Manajemen Profil
 
