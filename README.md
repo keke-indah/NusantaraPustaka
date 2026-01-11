@@ -52,50 +52,44 @@ Pada halaman ini, pengguna dapat:
 
 ## Tampilan Aplikasi
 
-<!-- Login & Registrasi -->
 ### Login & Registrasi
 <p align="center">
-  <img src="images/login.jpeg" width="180" alt="Halaman Login"/>
-  <img src="images/registrasi.jpeg" width="180" alt="Halaman Registrasi"/>
+  <img src="images/login.jpeg" width="180"/>
+  <img src="images/registrasi.jpeg" width="180"/>
 </p>
 
-<!-- Beranda -->
 ### Beranda
 <p align="center">
-  <img src="images/beranda.jpeg" width="320" alt="Halaman Beranda"/>
+  <img src="images/beranda.jpeg" width="220"/>
 </p>
 
-<!-- Detail Buku -->
 ### Detail Buku
 <p align="center">
-  <img src="images/detail.jpeg" width="320" alt="Halaman Detail Buku"/>
+  <img src="images/detail.jpeg" width="220"/>
 </p>
 
-<!-- Membaca Buku -->
 ### Membaca Buku
 <p align="center">
-  <img src="images/membaca.jpeg" width="320" alt="Halaman Membaca Buku"/>
+  <img src="images/membaca.jpeg" width="220"/>
 </p>
 
-<!-- Koleksi -->
 ### Koleksi
 <p align="center">
-  <img src="images/koleksi.jpeg" width="320" alt="Halaman Koleksi"/>
+  <img src="images/koleksi.jpeg" width="220"/>
 </p>
 
-<!-- Profil & Pengaturan -->
 ### Profil & Pengaturan
 <p align="center">
-  <img src="images/profil.jpeg" width="260" alt="Halaman Profil"/>
-  <img src="images/notifikasi.jpeg" width="260" alt="Halaman Notifikasi"/>
-  <img src="images/hapus_akun.jpeg" width="260" alt="Halaman Hapus Akun"/>
+  <img src="images/profil.jpeg" width="180"/>
+  <img src="images/notifikasi.jpeg" width="180"/>
+  <img src="images/hapus_akun.jpeg" width="180"/>
 </p>
 
-<!-- Pembayaran -->
 ### Pembayaran
 <p align="center">
-  <img src="images/pembayaran.jpeg" width="320" alt="Halaman Pembayaran"/>
+  <img src="images/pembayaran.jpeg" width="220"/>
 </p>
+
 
 
 
