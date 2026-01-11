@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary">#135BEC</color>
+    <color name="bg_light">#F6F6F8</color>
+    <color name="bg_dark">#101622</color>
+    <color name="slate_900">#0F172A</color>
+    <color name="slate_500">#647488</color>
+    <color name="slate_400">#94A3B8</color>
+    <color name="slate_200">#E2E8F0</color>
+    <!-- Ganti nama 'primary' menjadi nama lain yang unik -->
+    <color name="primary_variant">#2563EB</color>
+    <color name="bg_light2">#F8FAFC</color>
+    <color name="bg_dark_blue">#1C2F5C</color>
+    <color name="black">#000000</color>
+</resources>

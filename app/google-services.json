@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589785762880",
+    "project_id": "nusantarapustaka-f5363",
+    "storage_bucket": "nusantarapustaka-f5363.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589785762880:android:3c261a336ce052ffd7e3a5",
+        "android_client_info": {
+          "package_name": "com.example.nusantarapustaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589785762880-l1dg8to4ao16a2hnkesd624lsvu53emc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nusantarapustaka",
+            "certificate_hash": "2ee870ae2100c5350b863524f06329a1bedc0b21"
+          }
+        },
+        {
+          "client_id": "589785762880-pb8t7g8v7q5oqmdvv8r6nv27ovucfkiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIx2LbRIvGc5SswdZ6BVOp6h7NtA1JP7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589785762880-pb8t7g8v7q5oqmdvv8r6nv27ovucfkiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
