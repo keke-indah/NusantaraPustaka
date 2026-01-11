@@ -1,14 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Base.Theme.NusantaraPustaka" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/white</item>
-        <item name="colorOnPrimary">@color/black</item>
+    <style name="Base.Theme.NusantaraPustaka" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#2563EB</item>
+        <item name="colorOnPrimary">@color/white</item>
 
-        <item name="android:windowBackground">@color/black</item>
-        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">#111318</item>
 
-        <item name="android:windowLightStatusBar">false</item>
+        <item name="elevationOverlayEnabled">false</item>
 
-        <item name="colorSurface">@color/black</item>
-        <item name="colorOnSurface">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="colorSecondaryContainer">#EFF6FF</item>
+        <item name="colorOnSecondaryContainer">#2563EB</item>
     </style>
+    <style name="Theme.NusantaraPustaka" parent="Base.Theme.NusantaraPustaka" />
+
+    <style name="CircleImage">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="SectionLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:textColor">#2563EB</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MenuCardStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+
+    <style name="MenuItemStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingHorizontal" tools:targetApi="26">16dp</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="MenuTextStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:textColor">#111318</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="ArrowStyle">
+        <item name="android:layout_width">16dp</item>
+        <item name="android:layout_height">16dp</item>
+        <item name="android:tint">#BDBDBD</item>
+    </style>
+
+    <style name="IconContainerBase">
+        <item name="android:layout_width">32dp</item>
+        <item name="android:layout_height">32dp</item>
+    </style>
+
+    <style name="IconContainerBlue" parent="IconContainerBase">
+        <item name="android:background">@drawable/bg_icon_blue</item>
+        <item name="android:backgroundTint">#E3F2FD</item>
+    </style>
+
+    <style name="IconContainerPink" parent="IconContainerBase">
+        <item name="android:background">@drawable/bg_icon_pink</item>
+    </style>
+    <style name="IconContainerOrange" parent="IconContainerBase">
+        <item name="android:background">@drawable/bg_icon_orange</item>
+    </style>
+    <style name="IconContainerGreen" parent="IconContainerBase">
+        <item name="android:background">@drawable/bg_icon_green</item>
+    </style>
+
+    <style name="IconStyle">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="DividerStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#F1F1F1</item>
+        <item name="android:layout_marginStart">64dp</item>
+    </style>
+
+    <style name="Theme.SplashNoAndroidLogo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
 </resources>
