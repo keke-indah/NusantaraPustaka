@@ -71,7 +71,8 @@ Pada halaman ini, pengguna dapat:
 
 ### Pembayaran
 <p align="center">
-  <img src="images/pembayaran.jpeg" width="220"/>
+  <img src="images/pembayaran.jpeg" width="180"/>
+  <img src="images/riwayat.jpeg" width="180"/>
 </p>
 
 ### Koleksi
@@ -89,7 +90,7 @@ Pada halaman ini, pengguna dapat:
 ### Profil & Pengaturan
 <p align="center">
   <img src="images/profil.jpeg" width="180"/>
-  <img src="images/update_kata_sandi.jpeg" width="1880"/>
+  <img src="images/update_kata_sandi.jpeg" width="180"/>
   <img src="images/notifikasi.jpeg" width="180"/>
   <img src="images/hapus_akun.jpeg" width="180"/>
 </p>
