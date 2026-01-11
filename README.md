@@ -48,7 +48,7 @@ Pada halaman ini, pengguna dapat:
 2. Gunakan tombol **Preview** untuk melihat contoh isi buku.
 3. Klik tombol **Beli** (fitur masih dalam tahap uji coba).
 4. Setelah buku dibeli, buku akan otomatis masuk ke **Koleksi Saya**.
-5. Klik buku yang ada di koleksi untuk mulai **membaca buku secara penuh**.
+5. Klik ikon baca buku yang ada di koleksi untuk mulai **membaca buku secara penuh**.
 
 ## Tampilan Aplikasi
 
