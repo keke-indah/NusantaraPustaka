@@ -68,15 +68,21 @@ Pada halaman ini, pengguna dapat:
   <img src="images/detail.jpeg" width="220"/>
 </p>
 
-### Membaca Buku
+### Pembayaran
 <p align="center">
-  <img src="images/membaca.jpeg" width="220"/>
+  <img src="images/pembayaran.jpeg" width="220"/>
 </p>
 
 ### Koleksi
 <p align="center">
   <img src="images/koleksi.jpeg" width="220"/>
 </p>
+
+### Membaca Buku
+<p align="center">
+  <img src="images/membaca.jpeg" width="220"/>
+</p>
+
 
 ### Profil & Pengaturan
 <p align="center">
@@ -85,10 +91,7 @@ Pada halaman ini, pengguna dapat:
   <img src="images/hapus_akun.jpeg" width="180"/>
 </p>
 
-### Pembayaran
-<p align="center">
-  <img src="images/pembayaran.jpeg" width="220"/>
-</p>
+
 
 
 
