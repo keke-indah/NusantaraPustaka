@@ -10,7 +10,6 @@
 
 Aplikasi **Nusantara Pustaka** merupakan aplikasi Android bertema *light* yang terinspirasi dari **Gramedia Digital**. Aplikasi ini dikembangkan menggunakan **bahasa pemrograman Kotlin** dan **Firebase** sebagai database, serta dibuat untuk memenuhi **tugas Ujian Akhir Semester** mata kuliah **Aplikasi Mobile 2**.
 
----
 
 ## Fitur yang Tersedia
 
@@ -25,7 +24,6 @@ Aplikasi **Nusantara Pustaka** merupakan aplikasi Android bertema *light* yang t
    - Mengubah kata sandi
    - Menghapus akun
 8. **Logout**
----
 
 ## Cara Menggunakan Aplikasi Nusantara Pustaka
 
@@ -74,27 +72,26 @@ Fitur **Manajemen Profil** digunakan untuk mengelola data akun pengguna.
 
 > Setelah akun dihapus, pengguna tidak dapat mengakses aplikasi kembali menggunakan akun yang sama.
 
----
 ### Tampilan Aplikasi
 
-### Login & Registrasi
+#### Login & Registrasi
 <p align="center">
   <img src="images/login.jpeg" width="180"/>
   <img src="images/registrasi.jpeg" width="180"/>
 </p>
 
-### Beranda & Search
+#### Beranda & Search
 <p align="center">
   <img src="images/beranda.jpeg" width="180"/>
   <img src="images/search.jpeg" width="180"/>
 </p>
 
-### Detail Buku
+#### Detail Buku
 <p align="center">
   <img src="images/detail.jpeg" width="220"/>
 </p>
 
-### Pembayaran
+#### Pembayaran
 <p align="center">
   <img src="images/pembayaran.jpeg" width="180"/>
   <img src="images/riwayat.jpeg" width="180"/>
@@ -106,13 +103,13 @@ Fitur **Manajemen Profil** digunakan untuk mengelola data akun pengguna.
   <img src="images/hapus_koleksii.jpeg" width="180"/>
 </p>
 
-### Membaca Buku
+#### Membaca Buku
 <p align="center">
   <img src="images/membaca.jpeg" width="220"/>
 </p>
 
 
-### Profil & Pengaturan
+#### Profil & Pengaturan
 <p align="center">
   <img src="images/profil.jpeg" width="180"/>
   <img src="images/update_kata_sandi.jpeg" width="180"/>
