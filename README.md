@@ -8,7 +8,7 @@
 
 ## Deskripsi Aplikasi
 
-Aplikasi **Nusantara Pustaka** merupakan aplikasi Android bertema *lite* *Aplikasi* yang terinspirasi dari **Gramedia Digital https://play.google.com/store/apps/details?id=com.appsfoundry.scoop**. Aplikasi ini dikembangkan menggunakan **bahasa pemrograman Kotlin** dan **Firebase** sebagai database, serta dibuat untuk memenuhi **tugas Ujian Akhir Semester** mata kuliah **Aplikasi Mobile 2**.
+Aplikasi **Nusantara Pustaka : e-book** merupakan aplikasi Android bertema *lite* *Aplikasi* yang terinspirasi dari **Gramedia Digital https://play.google.com/store/apps/details?id=com.appsfoundry.scoop**. Aplikasi ini dikembangkan menggunakan **bahasa pemrograman Kotlin** dan **Firebase** sebagai database, serta dibuat untuk memenuhi **tugas Ujian Akhir Semester** mata kuliah **Aplikasi Mobile 2**.
 
 
 ## Fitur yang Tersedia
