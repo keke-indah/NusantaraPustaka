@@ -67,6 +67,7 @@ Aplikasi **Nusantara Pustaka : e-book** merupakan aplikasi Android bertema *lite
   <img src="images/notifikasi.jpeg" width="180"/>
   <img src="images/hapus_akun.jpeg" width="180"/>
 </p>
+
 ## Cara Menggunakan Aplikasi Nusantara Pustaka
 
 ### 1. Login atau Daftar Akun
