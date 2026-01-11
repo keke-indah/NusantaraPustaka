@@ -8,7 +8,7 @@
 
 ## Deskripsi Aplikasi
 
-Aplikasi **Nusantara Pustaka** merupakan aplikasi Android bertema *light* yang terinspirasi dari **Gramedia Digital**. Aplikasi ini dikembangkan menggunakan **bahasa pemrograman Kotlin** dan **Firebase** sebagai database, serta dibuat untuk memenuhi **tugas Ujian Akhir Semester** mata kuliah **Aplikasi Mobile 2**.
+Aplikasi **Nusantara Pustaka** merupakan aplikasi Android bertema *lite* *Aplikasi* yang terinspirasi dari **Gramedia Digital /https://play.google.com/store/apps/details?id=com.appsfoundry.scoop/**. Aplikasi ini dikembangkan menggunakan **bahasa pemrograman Kotlin** dan **Firebase** sebagai database, serta dibuat untuk memenuhi **tugas Ujian Akhir Semester** mata kuliah **Aplikasi Mobile 2**.
 
 
 ## Fitur yang Tersedia
@@ -69,8 +69,7 @@ Fitur **Manajemen Profil** digunakan untuk mengelola data akun pengguna.
 2. Pilih menu **Keamanan**.
 3. Klik opsi **Hapus Akun**.
 4. Konfirmasi penghapusan akun.
-
-> Setelah akun dihapus, pengguna tidak dapat mengakses aplikasi kembali menggunakan akun yang sama.
+Setelah akun dihapus, pengguna tidak dapat mengakses aplikasi kembali menggunakan akun yang sama.
 
 ### Tampilan Aplikasi
 
