@@ -1,26 +1,26 @@
 ## Tampilan Aplikasi
 
 ### Login & Registrasi
-![Login](images/login.png)
-![Registrasi](images/registrasi.png)
+![Login](images/login.jpeg)
+![Registrasi](images/registrasi.jpeg)
 
 ### Beranda
-![Beranda](images/beranda.png)
+![Beranda](images/beranda.jpeg)
 
 ### Detail Buku
-![Detail Buku](images/detail_buku.png)
+![Detail Buku](images/detailjpeg)
 
 ### Membaca Buku
-![Membaca](images/membaca.png)
+![Membaca](images/membaca.jpeg)
 
 ### Koleksi
-![Koleksi](images/koleksi.png)
+![Koleksi](images/koleksi.jpeg)
 
 ### Profil & Pengaturan
-![Profil](images/profil.png)
-![Notifikasi](images/notifikasi.png)
-![Hapus Akun](images/hapus_akun.png)
+![Profil](images/profil.jpeg)
+![Notifikasi](images/notifikasi.jpeg)
+![Hapus Akun](images/hapus_akun.jpeg)
 
 ### Pembayaran
-![Pembayaran](images/pembayaran.png)
+![Pembayaran](images/pembayaran.jpeg
 
