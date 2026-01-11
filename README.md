@@ -18,3 +18,6 @@ b.	Edit Password <br>
 c.	Hapus Akun <br>
 8.	Logout <br>
 
+**Cara Menjalakan Aplikasi**
+1. 
+
