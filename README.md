@@ -94,13 +94,15 @@ Pada halaman ini, pengguna dapat:
 - Menggunakan **fitur pencarian** untuk mencari buku berdasarkan judul atau kategori.
 
 
-### 3. Memilih dan Membaca Buku
+### 3. Memilih, Wishlis dan Membaca Buku
 1. Klik **judul buku** untuk melihat detail buku.
 2. Pada halaman detail buku, pengguna dapat menambahkan buku ke Wishlist dengan menekan ikon love yang tersedia.
-3. Gunakan tombol **Preview** untuk melihat contoh isi buku.
-4. Klik tombol **Beli** (fitur masih dalam tahap uji coba).
-5. Setelah buku dibeli, buku akan otomatis masuk ke **Koleksi Saya**.
-6. Klik ikon **baca buku** pada koleksi untuk mulai **membaca buku secara penuh**.
+3. Buku yang ditambahkan ke Wishlist akan tersimpan di Halaman Wishlist.
+4. Halaman Wishlist digunakan untuk menyimpan daftar buku yang ingin dibeli di kemudian hari.
+5. Gunakan tombol **Preview** untuk melihat contoh isi buku.
+6. Klik tombol **Beli** (fitur masih dalam tahap uji coba).
+7. Setelah buku dibeli, buku akan otomatis masuk ke **Koleksi Saya**.
+8. Klik ikon **baca buku** pada koleksi untuk mulai **membaca buku secara penuh**.
 
 ### 4. Manajemen Profil
 
